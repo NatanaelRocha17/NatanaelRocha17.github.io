@@ -1,0 +1,749 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#topo{
+    position: fixed;
+    background-color:#070e1d;
+    width: 100%;
+    height: 12%;
+    
+    z-index: 10px;
+    margin-top: 0px;
+   
+    
+}
+nav{
+    margin-top: 10px;
+    margin-right:20px;
+}
+#ods{
+    margin-left: 20%;
+}
+#corods{
+    color: rgb(8, 149, 243);
+   
+}
+
+#ods{
+    padding-left: 0.5%;
+    border-radius: 20%;
+    margin-left: 19.5%;
+    margin-right: 74%;
+    border: solid 4px;
+    font-size: 90%;
+    color: rgb(245, 103, 8);
+    text-decoration: none;
+
+}
+#ods:hover{
+    color: rgb(235, 95, 14);
+    background-color: #ffffff;
+    
+}
+/* SEGUNDO MENU */
+header label{
+    visibility: hidden;
+}
+header #check{
+    display: none;
+}
+#menu2{
+    visibility: hidden;
+}    
+
+.topo{
+   
+    float: left;}
+#conteudos{
+    background-color: white;
+    padding-left: 5%;
+
+    padding-right: 5% ;
+    
+}
+
+
+#logotipo{
+    width: 90px;
+    height: 75px;
+    float: left;
+    
+}
+#menu{
+    padding-right: 0%;
+    float: right;
+    
+    
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    color: rgba(211, 25, 25, 0.856);
+}
+.legenda1{
+    float: right;
+    font-size: 13px;
+}
+.legenda2{
+    float: left;
+    font-size: 12px;
+}
+
+
+li{
+    float: left;
+    padding:5px 6px 5px 15px;
+    
+}
+li a{
+    text-decoration: none;
+    color: rgba(243, 142, 10, 0.993);
+    font-weight: bold;
+    font-size:19px;
+    padding: 10px 5px;
+
+}
+
+
+li a:hover {
+    background-color: #1f2c3d;
+    padding: 1.5rem 1rem 2.5rem 1rem;
+    transition: all .4s linear;
+    
+}
+
+
+#capa{
+    z-index: 12px;
+    width: 100%;
+    height: 700px;
+    background-image: url(fotos/earth-4180280.jpg);
+    background-size: cover; 
+    color: rgb(32, 61, 228) 
+    
+
+}
+.centro{
+    text-align: center;
+    font-size: 27px;
+}
+#centralizar{
+    text-align: center;
+}
+.centroongs{
+    text-align: CENTER;
+
+}
+#conteudo5{
+    font-size: 20px;
+    
+    
+}
+
+
+#imgefeitoestufa1{
+    height: 280px;
+    float: left;
+}
+#imgefeitoestufa2{
+    height: 290px;
+    float: right;
+    padding:20px ;
+}
+    
+#textoefeitoestufa{
+    padding-left: 350px;
+    font-size: 22px;
+
+}
+#textoefeitoestufa2{
+    padding-left:25 ;
+    font-size: 22px;
+    
+}
+
+    
+#video1{
+   
+    float: right;
+    margin: 20px;
+    padding: 2%;
+    
+}
+#video2{
+       
+        float: none;
+        margin-top: 0px;
+        clear: both;
+        margin: 20px;
+       
+        margin-left: 250px;
+        border: green solid 4px;
+    
+}
+#foto{ margin: 0;
+
+}
+
+
+
+.imgpequena{
+    float: left;
+    height: 70px;
+    width: 70px;
+    margin: 4%;
+    ;
+    padding-top: 15px;
+    clear: both;}
+    
+
+
+.irparaconteudo{
+    padding-top: 70px ;
+    }
+
+#acontecer{
+    font-size: 22px;
+}
+
+    
+h1{
+    color:rgb(246, 100, 2);
+    font-size: 50px;
+    padding-top: 16%;
+    margin-left:2%;
+    margin-top: 0px;
+    font-family: 'Fredoka One', cursive;
+   
+    
+}
+body{
+    background-color:white;
+    padding-top: 0px ;
+    margin: 0px;
+}
+    
+   
+
+.tfonte{
+    font-size: 40px;
+    
+}
+#conteudo1{
+font-size: 22px;
+}
+#conteudo2{
+    font-size: 22px;
+}
+#conteudo3{
+    font-size: 22px;
+}
+#conteudo4{
+    font-size: 22px;
+}
+
+
+#conteudo6{
+    font-size: 22px;
+}
+#conteudo7{
+    font-size: 22px;
+}
+h3{
+    text-align: center;
+    font-size:30px;
+    color: darkblue;
+    }
+
+
+.natan{
+    font-size: 22px;
+    margin: 15px;
+}
+
+h5{
+    color: rgb(11, 44, 230);
+    font-size: 30px;
+    margin: 0px;
+}
+#oquefazer{
+  font-size: 22px;
+  clear: left;
+  padding: 0% 7% 0% 7%;
+  padding-top: 0px ;
+  
+
+    
+ 
+    
+}
+ 
+.titulo{
+    font-size: 30px;
+    margin: 0px;
+    color: rgb(12, 81, 230);
+}
+   
+
+#pequenaimg{
+    float: left;
+    height: 100px;
+    width: 100px;
+    margin: 0;
+    margin-top:70px ;
+
+}
+#logotipofinal{
+    float: right;
+    margin-top: 20px;   
+}
+#contato{ 
+        
+        width: 100%;
+        float: left;
+        background-color: #3f608f;
+        font-size: 15px;
+        margin:0%;
+     
+    }
+#conteudo6{
+    float: left;
+    font-size: 22px;
+}
+#quemsoueu{
+    float:left ;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right:50px;
+    
+
+}
+#fotonatan{
+   
+    width: 250px;
+    margin-top: 5px;
+    padding-left: 40%;
+
+    
+    
+}
+
+ 
+#coluna1{
+    
+    padding-left: 20%;
+    float: left;
+    margin: 1%;
+}
+        
+#coluna2{
+    color: #000;
+    margin:0%;
+    float: right;
+    padding-right: 2%;
+}
+#graficoaquecimentoglobal{
+    float: right;
+    height: 300px;
+    padding: 10px;
+    padding-top: 0% 2% 2% 2%;
+
+}
+#fotoscontato1{
+    margin-top: 10px;
+    padding: 0 20px;
+    width: 4%;
+    height: 4%;
+    float: left;
+    
+}
+#fotoscontato2{
+    margin-top: px;
+    padding:  0 20px;
+    width: 4%;
+    height: 4%;
+    float: left;
+    
+}
+#texto4{
+    font-size: 22px;
+    float: right;
+}
+#parqueeolico{
+    width: 300px;
+    float: right;
+    padding-left: 4%;   
+}
+
+
+
+#parquesolar{
+    width: 300px;
+    float: left;
+    padding: 50px 45px 0px 0px}
+
+
+#greenpeace{
+  margin: 4%;
+   float: left;
+   
+  
+}
+#fotogreenpeace{
+    margin-top: 4%;
+    text-align: center;
+    padding: 0px 0px 25px 0px;
+}
+#wwf{
+    
+    float: left;
+    
+}
+.fotocenter{
+    text-align: center;
+   
+    
+}
+#sosmata{
+    
+    float: left;
+    margin: 0% 4% 0% 4%;
+}
+
+
+
+
+@media screen and (max-width:800px){
+    
+    nav{visibility: hidden;}
+    
+    
+    #topo{   
+    position: fixed;
+    background-color: rgb(25, 148, 248);
+    width: 100%;
+    height: 12%;
+    z-index: 10px;}
+
+
+    /*SEGUNDO MENU*/
+    #fotomenu{
+        padding-top: 10%;
+        padding-left: 70px;
+    }
+    header label{
+       
+        visibility: visible;
+        position: absolute;
+        margin: 1.5%;
+        text-align: right;
+        cursor: pointer;
+        z-index: 11;
+        transition: all .2s linear;
+    }
+    #menu2{
+        visibility: visible;
+        box-sizing: border-box;
+        background-color: #0a1529;
+        margin-top: 4.5%;
+        height: 0vh;
+        width: 70vw;
+        right: -55vw;
+        position: absolute;
+        transition: all .3s linear;
+    }
+    #menu2 a{
+        display: block;
+        text-decoration: none;
+        padding: 7% 5%;
+        color: #88ff00;
+        background-color: rgb(7, 156, 255);
+        border-bottom: 0.1rem #f1c9bd solid;
+        opacity: 0;
+        margin-top: 0vh;
+        transition: all .4s linear;
+        font-size: 18px;
+    }
+    #check:checked ~ #menu2{
+        transform: translateX(-45vw);
+    }
+    #check:checked ~ #menu2 a{
+        opacity: 1;
+        margin-top: 0;
+    }
+    #menu2 a:hover{
+        background-color: #26464b;
+        padding: 0% 5% 7% 10%;}
+
+    .topo{
+        float:none;
+    }
+    #logotipo{
+        float: left;
+        
+        
+    }
+    
+    #capa{
+        width:100%;
+        padding-top: 35%;
+       
+        
+    }
+    h1{
+        font-size: 25px;
+        padding-top: 10% ;
+    }
+    #conteudos{
+        padding-top: 10%;
+        margin: 0px;
+        font-size: 22px;
+        
+    }
+    
+    
+    #contato{
+        background-color:rgba(24, 138, 231, 0.863);
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        float: right;
+        
+        font-size: 15px;
+        margin:0%;
+    }
+    #coluna1{
+        text-align: center;
+        float: left;
+        padding-left: 30px;
+    }
+
+    #coluna2{
+        text-align: centr;
+        float: let;
+        padding-left: 10%;
+        padding-right: 10%;
+        margin: 0;
+     
+    }
+    #instagram{
+        padding-right: 50px;
+        margin: px;
+    }
+
+    #fotoscontato1{
+        margin-top: 5%;
+    padding-right: 4px;
+    padding-left:70px;
+    margin-right: 0%;
+    width: 7%;
+    }
+    
+    #fotoscontato2{
+        margin-top: 0%;
+    padding-right: 4px;
+    padding-left:2px;
+    margin-right: 0%;
+    width: 7%;
+    }
+    h3{
+        font-size: 25px;
+        text-align: center;
+    }
+    .natan{
+        
+            font-size: 20px;
+            margin: 15px;
+    }
+    #textoefeitoestufa{
+        margin: 0%;
+        padding: 0%;
+        font-size: 20px;
+
+    }
+    #acontecer{
+        font-size: 20px;
+    }
+    .centro{
+        font-size: 20px;
+    }
+    #textoefeitoestufa2{
+        font-size: 20px;
+    }
+    #imgefeitoestufa1{
+        height: 300px;
+        width: 325px;
+        float: none;}
+    #graficoaquecimentoglobal{
+        
+        width: 100%;
+        height: 50%;
+        padding:0% ;
+    }
+
+    #imgefeitoestufa2{
+            height: 190px;
+            
+           
+    
+    }
+    #capa{
+        padding-top: 200 0 0 0px;
+        z-index: 12px;
+        width: 100%;
+        height: 400px;
+        background-image: url(fotos/capacelular2.jpg);
+        background-size: covr; 
+        color: rgb(32, 61, 228)}
+        h1{
+            margin: 2%;
+            text-align: center;
+            color:rgb(235, 112, 12);
+            font-size: 30px;
+           
+            
+            margin-top:px;
+            
+        }
+    #video1{ 
+        margin-top: 0px;
+        height: 250px;
+         width: 275px;
+        }
+    #video2{
+        margin: 0px;
+        padding: 0px;
+        width: 320px;
+    }  
+                
+
+    .titulo{ font-size: 22px;
+                margin: 0px;
+                color: rgb(12, 81, 230);}
+
+    h2{
+    font-size: 10px;
+    }
+    #ods{
+        text-align: center;
+    padding-left: 0%;
+    border-radius:20%;
+    margin-left: 40%;
+    margin-right: 40%;
+    border: solid 2px;
+    font-size: 100%;
+    color: rgb(235, 101, 13);
+    }
+    
+    #imglogotipo{
+        text-align: center;
+        margin-left: 37%;
+        
+        
+        border: rgb(175, 175, 30) 40px;
+        background-color:write;
+    }
+    .irparaconteudo{
+        padding-top:70px ;
+    }
+    body{
+        background-color: #f9f9f9;
+        margin: 0;
+      }
+      #check{
+        display: none ;
+      }
+      #icone{
+        cursor: pointer;
+        padding: 15px;
+        position: absolute;
+        z-index: 1px;
+        
+        
+      }
+      .barra{
+        background-color:#333;
+        height: 100%;
+        width: 300px;
+        position: relative;
+        left: -300px;
+      }
+      nav{
+        width: 100%;
+        position: absolute;
+        top: 60px;
+      }
+      nav a{
+        text-decoration: none;
+      }
+      .link{
+        background-color: rgb(168, 240, 228);
+        padding: 12px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 15px;
+        transition: all .20s linear;
+        color: rgb(255, 102, 0);
+        border-bottom:2px rgb(10, 10, 10)  solid ;
+        opacity: 0px;
+        margin-top: 150px;
+      }
+      .link:hover{
+        background-color: rgb(67, 165, 42);
+      
+      }
+      #check:checked ~ .barra{
+        transform: translateX(300px);
+      } 
+      #check:checked ~ .barra nav a .link{
+        opacity: 1px;
+        margin-top: 0px ;
+        
+      } 
+    #parqueeolico{
+        width: 300px;
+        float: right;
+        padding: 4%;
+        padding-top: 0% ;
+        
+    }
+    #parquesolar{
+        width: 300px;
+        float: left;
+        padding: 7% 0% 5% 4%;}
+    #fotonatan{  
+         
+        width:230px;
+        padding-left:45px ;
+    }
+    
+
+    #centroh3{
+        
+        padding: 0px;
+    }
+    #texto4{
+        font-size: 22px;
+        float: none;
+    }
+ 
+    
+    .legenda1{
+        visibility: hidden;
+        float: right;
+        font-size: 13px;
+    }
+    .legenda2{
+        visibility: hidden;
+        float: left;
+        font-size: 12px;
+    }
+    #quemsoueu{
+        padding: 0px;
+        text-align: center;
+        
+        
+    }
+    
+
+}
